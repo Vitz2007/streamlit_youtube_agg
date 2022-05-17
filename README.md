@@ -1,2 +1,12 @@
-# streamlit_youtube_aggregation
-interactive youtube aggregated visuals from Ken Jee's channel
+# streamlit youtube aggregated data
+interactive aggregated youtube visuals from Ken Jee's channel
+
+
+# Youtube Aggregated Data Visualization for Countries and Video Titles by Streamlit
+
+#### -- Project Status: [Completed]
+
+
+## Project Intro/Objective
+The aim of this project was to uncover from which country the views came from, which videos were popular, and whether subscribed users resulted in more likes or dislikes. 
+
