@@ -1,2 +1,2 @@
-# streamlit_youtube_agg-
-interactive aggregated youtube data from Ken Jee's channel
+# streamlit_youtube_aggregation
+interactive youtube aggregated visuals from Ken Jee's channel
