@@ -1,5 +1,4 @@
-# streamlit youtube aggregated data
-interactive aggregated youtube visuals from Ken Jee's channel
+# streamlit youtube aggregated data viz
 
 
 # Youtube Aggregated Data Visualization for Countries and Video Titles by Streamlit
