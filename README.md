@@ -38,5 +38,5 @@ One difficulty I ran into with streamlit was that displaying visuals such as gra
 ## Getting started
 1. Install streamlit via command line or terminal using pip.
 2. Add @st.cache before loading data for faster loading of data.
-3. Load csv clean_country_subs[here](https://github.com/Vitz2007/streamlit_youtube_agg-app/raw/main/clean_country_subs) into streamlit.
+3. Load csv clean_country_subs[data is here](https://github.com/Vitz2007/streamlit_youtube_agg-app/raw/main/clean_country_subs) into streamlit.
 
